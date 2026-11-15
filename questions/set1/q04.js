@@ -1,0 +1,9 @@
+/* ข้อสอบชุดที่ 1 ข้อที่ 4  |  ประเภท: mc  (สร้างจาก PDF ต้นฉบับ: ข้อความ + ภาพตัดจากหน้า) */
+registerQuestion({
+  id: 4,
+  theme: {"emoji": "🎤", "color": "#db2777"},
+  part1: {"type": "mc", "processes": ["interpret"]},
+  part2: {"title": "จำนวนคอนเสิร์ตของแต่ละค่ายเพลง", "scenarioHtml": "<p>จากการเก็บรวบรวมข้อมูลการจัดคอนเสิร์ตโดยใช้สถานที่ของ Expect Areana ทั้งหมด 5 ปี ของ 5 ค่ายเพลง ได้แก่ Gramma, RZ, Love Us, Sweet Disc และ Big Room ได้ข้อมูลดังนี้</p><p style=\"text-align:center\"><img src=\"questions/set1/img/q04-1.png\" data-track=\"ภาพ 1\" alt=\"120 100 80 60 40 20 0 Gramma RZ Love Us Sweet Disc Big Room 2565 2566 2567 2568 2569 รายการประเมิน (ภาพรวม) คะแนน  ตอบว่าค่าย Love Us 2  ตอบว่าตัวเลือกอื่นที่ไม่ใช่ Love Us 0\" style=\"max-width:100%;width:605px;background:#fff;border-radius:10px\"></p>", "askHtml": "<p><b>ค่ายเพลงใดมีแนวโน้มที่ดีในการที่จะใช้ Expect Arena ในปีถัดไป</b></p>", "sourceHtml": "", "answer": {"type": "mc", "options": ["Gramma", "RZ", "Love Us", "Sweet Disc", "Big Room"], "correct": 3}, "workings": true, "mathPad": {"chips": [], "phrases": [], "calculator": true, "placeholder": "ทดเลขหรือเขียนเหตุผลได้ที่นี่"}},
+  part3: {"answerHtml": "<p><b>ตอบ 3. Love Us</b></p><p>แนวการตอบ (เลือกข้อที่ถูกต้องที่สุดตามเงื่อนไขที่หมอกำหนด) ตอบ Love Us</p><p>1. Gramma (ถึงจะเป็นค่ายที่ใช้บริการมากที่สุด แต่โดยรวมแล้วมีการใช้งานที่ลดลง)</p><p>2. RZ (มีความคงที่ในการใช้งาน และในภาพรวมมีการใช้สถานที่ที่ลดลงจากช่วงปีแรก)</p><p>3. Love Us (มีแนวโน้มสูงขึ้นทุกปี แม้จะมีปี 2568 ที่ลดลงจากปี 2567 แต่ก็ลดลงเพียงเล็กน้อยเท่านั้น)</p><p>4. Sweet Disc (แม้จะดูมีแนวโน้มเพิ่มขึ้นอยู่บ้าง แต่ช่วงปีที่ลดลง ก็ลดลงจนเกินไป ทำให้ขาดความแน่นอน)</p><p>5. Big Room (มีทั้งขึ้นและลง แต่โดยรวมดูลดลงมากกว่าขึ้น และไม่ค่อยแน่นอนในการใช้งานสถานที่)</p>", "rubric": [{"text": "ตอบตัวเลือก 3.", "score": 2}, {"text": "ตอบตัวเลือกอื่น ๆ หรือไม่ตอบ", "score": 0}]},
+  maxScore: 2
+});
