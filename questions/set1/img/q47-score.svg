@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 230" font-family="Sarabun, Tahoma, sans-serif">
+<rect width="980" height="230" rx="18" fill="#f8fafc"/>
+<text x="24" y="58" font-size="30" font-weight="700" fill="#be123c">สีแดง</text><circle cx="122" cy="48" r="17" fill="#e11d48"/>
+<text x="24" y="196" font-size="30" font-weight="700" fill="#15803d">สีเขียว</text><circle cx="134" cy="186" r="15" fill="#4ade80" stroke="#15803d" stroke-width="5"/>
+<rect x="120" y="96" width="804" height="44" rx="22" fill="#fff" stroke="#cbd5e1" stroke-width="2"/>
+<text x="150" y="128" text-anchor="middle" font-size="26" fill="#1f2937">1</text>
+<text x="212" y="128" text-anchor="middle" font-size="26" fill="#1f2937">2</text>
+<text x="274" y="128" text-anchor="middle" font-size="26" fill="#1f2937">3</text>
+<text x="336" y="128" text-anchor="middle" font-size="26" fill="#1f2937">4</text>
+<text x="398" y="128" text-anchor="middle" font-size="26" fill="#1f2937">5</text>
+<text x="460" y="128" text-anchor="middle" font-size="26" fill="#1f2937">6</text>
+<text x="522" y="128" text-anchor="middle" font-size="26" fill="#1f2937">7</text>
+<text x="584" y="128" text-anchor="middle" font-size="26" fill="#1f2937">8</text>
+<text x="646" y="128" text-anchor="middle" font-size="26" fill="#1f2937">9</text>
+<text x="708" y="128" text-anchor="middle" font-size="26" fill="#1f2937">10</text>
+<text x="770" y="128" text-anchor="middle" font-size="26" fill="#1f2937">11</text>
+<text x="832" y="128" text-anchor="middle" font-size="26" fill="#1f2937">12</text>
+<text x="894" y="128" text-anchor="middle" font-size="26" fill="#1f2937">13</text>
+<path d="M262,30 h24 v26 h14 l-26,30 l-26,-30 h14z" fill="#e11d48"/>
+<path d="M324,206 h24 v-26 h14 l-26,-30 l-26,30 h14z" fill="#16a34a"/>
+</svg>
