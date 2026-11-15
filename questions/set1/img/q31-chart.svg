@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 520" font-family="Sarabun, Tahoma, sans-serif">
+<rect width="860" height="520" rx="18" fill="#fbfaff"/>
+<text x="430.0" y="36" text-anchor="middle" font-size="22" font-weight="700" fill="#3b0764">จำนวนชั่วโมงการฟังเพลงใน 1 เดือน</text>
+<defs><linearGradient id="gr" x1="0" x2="1"><stop offset="0" stop-color="#f43f5e"/><stop offset="1" stop-color="#fb923c"/></linearGradient>
+<linearGradient id="gb" x1="0" x2="1"><stop offset="0" stop-color="#2563eb"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
+<line x1="140.0" y1="60" x2="140.0" y2="432" stroke="#e4e1f0" stroke-width="1.5"/>
+<text x="140.0" y="458" text-anchor="middle" font-size="17" fill="#4b5563">0</text>
+<line x1="231.42857142857144" y1="60" x2="231.42857142857144" y2="432" stroke="#e4e1f0" stroke-width="1.5"/>
+<text x="231.42857142857144" y="458" text-anchor="middle" font-size="17" fill="#4b5563">50</text>
+<line x1="322.8571428571429" y1="60" x2="322.8571428571429" y2="432" stroke="#e4e1f0" stroke-width="1.5"/>
+<text x="322.8571428571429" y="458" text-anchor="middle" font-size="17" fill="#4b5563">100</text>
+<line x1="414.2857142857143" y1="60" x2="414.2857142857143" y2="432" stroke="#e4e1f0" stroke-width="1.5"/>
+<text x="414.2857142857143" y="458" text-anchor="middle" font-size="17" fill="#4b5563">150</text>
+<line x1="505.7142857142857" y1="60" x2="505.7142857142857" y2="432" stroke="#e4e1f0" stroke-width="1.5"/>
+<text x="505.7142857142857" y="458" text-anchor="middle" font-size="17" fill="#4b5563">200</text>
+<line x1="597.1428571428571" y1="60" x2="597.1428571428571" y2="432" stroke="#e4e1f0" stroke-width="1.5"/>
+<text x="597.1428571428571" y="458" text-anchor="middle" font-size="17" fill="#4b5563">250</text>
+<line x1="688.5714285714286" y1="60" x2="688.5714285714286" y2="432" stroke="#e4e1f0" stroke-width="1.5"/>
+<text x="688.5714285714286" y="458" text-anchor="middle" font-size="17" fill="#4b5563">300</text>
+<line x1="780.0" y1="60" x2="780.0" y2="432" stroke="#e4e1f0" stroke-width="1.5"/>
+<text x="780.0" y="458" text-anchor="middle" font-size="17" fill="#4b5563">350</text>
+<text x="126" y="96" text-anchor="end" font-size="20" font-weight="600" fill="#1f2937">ฮิปฮอป</text>
+<rect x="140" y="70" width="550.4" height="18" rx="5" fill="url(#gr)"/>
+<rect x="140" y="91" width="25.6" height="18" rx="5" fill="url(#gb)"/>
+<text x="126" y="158" text-anchor="end" font-size="20" font-weight="600" fill="#1f2937">ร็อก</text>
+<rect x="140" y="132" width="206.6" height="18" rx="5" fill="url(#gr)"/>
+<rect x="140" y="153" width="42.1" height="18" rx="5" fill="url(#gb)"/>
+<text x="126" y="220" text-anchor="end" font-size="20" font-weight="600" fill="#1f2937">อินดี้</text>
+<rect x="140" y="215" width="104.2" height="18" rx="5" fill="url(#gb)"/>
+<text x="126" y="282" text-anchor="end" font-size="20" font-weight="600" fill="#1f2937">เพื่อชีวิต</text>
+<text x="126" y="344" text-anchor="end" font-size="20" font-weight="600" fill="#1f2937">ลูกทุ่ง</text>
+<rect x="140" y="339" width="274.3" height="18" rx="5" fill="url(#gb)"/>
+<text x="126" y="406" text-anchor="end" font-size="20" font-weight="600" fill="#1f2937">Thai Pop</text>
+<rect x="140" y="380" width="21.9" height="18" rx="5" fill="url(#gr)"/>
+<rect x="140" y="401" width="124.3" height="18" rx="5" fill="url(#gb)"/>
+<rect x="180.0" y="484" width="22" height="16" rx="4" fill="url(#gr)"/><text x="210.0" y="498" font-size="18" fill="#1f2937">จำนวนชั่วโมงของแนน</text>
+<rect x="450.0" y="484" width="22" height="16" rx="4" fill="url(#gb)"/><text x="480.0" y="498" font-size="18" fill="#1f2937">จำนวนชั่วโมงของโบ๋</text>
+</svg>
