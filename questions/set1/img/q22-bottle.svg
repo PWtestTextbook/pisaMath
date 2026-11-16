@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 0 400 590" font-family="Sarabun, Tahoma, sans-serif">
+<rect x="-10" width="400" height="590" fill="#fff"/>
+<g stroke="#21364a" stroke-width="4" stroke-linejoin="round" fill="#f7f9fb">
+<path d="M98,40 L15,262 Q104,284 193,262 L110,40 Z"/>
+<path d="M15,262 Q104,284 193,262 L193,515 A89,20 0 0 1 15,515 Z"/>
+<path d="M15,330 Q104,346 193,330 L193,405 Q104,421 15,405 Z" fill="#21364a"/>
+<rect x="89" y="18" width="30" height="22" rx="5"/>
+<ellipse cx="104" cy="18" rx="15" ry="4"/>
+</g>
+<path d="M15,515 A89,20 0 0 1 193,515" fill="none" stroke="#21364a" stroke-width="2" stroke-dasharray="6 5"/>
+<line x1="104" y1="515" x2="193" y2="515" stroke="#dc2626" stroke-width="3"/>
+<circle cx="104" cy="515" r="4.5" fill="#dc2626"/>
+<rect x="120" y="466" width="58" height="26" rx="5" fill="#fff" opacity=".9"/><text x="149" y="487" text-anchor="middle" font-size="22" font-weight="700" fill="#dc2626">4 cm</text>
+<g fill="none" stroke="#21364a" stroke-width="3.5" stroke-linecap="round">
+<path d="M208,18 H220 V258 H208 M220,138 H232"/>
+<path d="M208,266 H220 V515 H208 M220,390 H232"/>
+</g>
+<g font-size="30" font-weight="700" fill="#21364a">
+<text x="242" y="148">15 cm</text><text x="242" y="400">15 cm</text>
+</g>
+<text x="104" y="578" text-anchor="middle" font-size="20" fill="#475569">รัศมีก้นขวด 4 cm</text>
+</svg>
