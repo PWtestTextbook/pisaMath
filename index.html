@@ -539,7 +539,7 @@ table.rubric tr.earned td:first-child::before{content:"👉 "}
    ตั้งค่า
    ========================================================================== */
 // URL เว็บแอปของ Google Apps Script (ลงท้าย /exec) — เว้นว่าง = โหมดทดลอง เก็บในเบราว์เซอร์เท่านั้น
-const API_URL = 'https://script.google.com/macros/s/AKfycbzaYhQpysrkp7WQlzT9Nrmpx-1gLHV3xfF0ed1kQY2MiBxpjoWqZ2HO0oGIp0bOcDS5/exec';
+const API_URL = '';
 
 // แสดงสรุปข้อมูลกระบวนการ (เวลา การเปลี่ยนคำตอบ ฯลฯ) ให้ผู้สอบเห็นในหน้ารายงานผลรายข้อ (ข้อมูลจะถูกบันทึกลงชีตเสมอ)
 const SHOW_PROCESS_TO_STUDENT = true;
@@ -548,7 +548,7 @@ const SHOW_PROCESS_TO_STUDENT = true;
    ไฟล์ข้อสอบ = <folder>qNN.js  เช่น questions/set1/q05.js */
 const SETS = {
   1: { name: 'ชุดที่ 1', emoji: '📘', total: 60, folder: 'questions/set1/', available: Array.from({ length: 60 }, (_, i) => i + 1) },
-  2: { name: 'ชุดที่ 2', emoji: '📗', total: 60, folder: 'questions/set2/', available: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 59, 60] }   // ข้อ 58 ไม่มีในต้นฉบับ
+  2: { name: 'ชุดที่ 2', emoji: '📗', total: 60, folder: 'questions/set2/', available: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60] }
 };
 
 /* ธีม 5 แบบ (สีอยู่ใน CSS ด้านบน) */
